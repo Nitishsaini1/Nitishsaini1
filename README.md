@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Nitishsaini1
-- 🌱 I’m currently learning Full Stack Web development course from <a href="https://altcampus.io/" target="blank">Alt_Campus_</a>
-- 📫 How to reach me  ... 
-- 🚀 twitter-
-<a href="https://twitter.com/nitishsaini79" target="blank">Nitish Saini</a>
-- 🚀 instagram- <a href="https://www.instagram.com/_nitish__saini_/" target="blank" >_nitish__saini_</a>
+<h1 align="center">Hi 👋, I'm Nitish Kumar</h1>
+<h5>🌱 I’m currently learning Full Stack Web development course from <a href="https://altcampus.io/" target="blank">Alt_Campus_</a></h5>
+
+🚀 twitter-
+<a href="https://twitter.com/nitishsaini79" target="blank">Nitish Saini</a> </br>
+🚀 instagram- <a href="https://www.instagram.com/_nitish__saini_/" target="blank" >_nitish__saini_</a>
  
 <p align="center"> 
       <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -17,4 +17,4 @@
 ## My Github Stats
 <p align="center"><img alt="home" src="https://github-readme-stats.vercel.app/api?username=Nitishsaini1&show_icons=true&hide_border=false&theme=synthwave">
 <p align="center"><img alt="home" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitishsaini1&layout=compact&theme=synthwave"></p>
-
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Nitishsaini1&theme=synthwave&"></p>
