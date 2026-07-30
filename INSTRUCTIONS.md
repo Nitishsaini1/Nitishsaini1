@@ -13,8 +13,21 @@
       <img alt="MongoDB" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> 
       <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   </p>
+ 
+## 🔥 My GitHub Streak
 
-## My Github Stats
-<p align="center"><img alt="home" src="https://github-readme-stats.vercel.app/api?username=Nitishsaini1&show_icons=true&hide_border=false&theme=synthwave">
-<p align="center"><img alt="home" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitishsaini1&layout=compact&theme=synthwave"></p>
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Nitishsaini1&theme=synthwave&"></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Nitishsaini1&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nitishsaini1&show_icons=true&theme=dark" />
+</p>
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitishsaini1&layout=compact&theme=dark" />
+</p>
