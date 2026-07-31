@@ -30,11 +30,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nitishsaini1&show_icons=true&theme=dark" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nitishsaini1&show_icons=true&theme=github_dark" />
 </p>
 
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitishsaini1&layout=compact&theme=dark" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nitishsaini1&layout=compact&theme=github_dark" />
 </p>
+ 
